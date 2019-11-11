@@ -1,1 +1,6 @@
 int
+
+void f()
+{
+  return ()
+}
